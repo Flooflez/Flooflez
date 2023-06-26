@@ -29,7 +29,7 @@ Maintainer<br><a href="https://github.com/Alujjdnd/Ngrok-LAN"><img alt="NgrokLAN
 
 Thanks for checking out my profile :)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Flooflez&count_private=true&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Flooflez&count_private=true&show_icons=true&theme=transparent)
 
 
 <!--
