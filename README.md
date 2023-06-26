@@ -1,9 +1,14 @@
-# Hey there 👋
-I'm Max and I create projects under the name Flooflez.
+# 🐇🥞 Hey there 👋
+I'm Max and I create projects under the name Flooflez. 
+
 I'm a second year Computer Science student, and an amateur game developer and Minecraft modder.
+
 I mostly work on Open Source Minecraft Fabric mods here, all free to download on my Modrinth or Curseforge page
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Flooflez&count_private=true&show_icons=true)
+#### ⏬ See my work here ⏬
+
+<a href="https://flooflezmt.itch.io/"><img alt="itch.io" title="itch.io" width="100px" src="https://static.itch.io/images/logo-black-new.svg"></a>|<a href="https://modrinth.com/user/flooflez"><img alt="Modrinth" title="Modrinth" width="100px" src="https://docs.modrinth.com/img/logo.svg"></a>
+|--|--|
 
 ## **Popular Projects**
 Maintainer<br><a href="https://github.com/Alujjdnd/Ngrok-LAN"><img alt="NgrokLAN" title="NgrokLAN" width="100px" src="https://github.com/Alujjdnd/Ngrok-LAN/blob/1.18.2/src/main/resources/assets/ngroklan/icon.png"></a>|Author<br><a href="https://github.com/Flooflez/LANOperators"><img title="LAN Operators" alt="LAN OP" width="100px" src="https://github.com/Flooflez/LANOperators/blob/1.18/src/main/resources/assets/lanoperators/icon.png" /></a>|Author<br><a href="https://github.com/Flooflez/NoTNTGriefing"><img alt="NO TNT" title="No TNT Griefing" width="100px" src="https://github.com/Flooflez/NoTNTGriefing/blob/1.18/src/main/resources/assets/no.tnt.griefing/icon.png"></a>
@@ -19,10 +24,13 @@ Maintainer<br><a href="https://github.com/Alujjdnd/Ngrok-LAN"><img alt="NgrokLAN
 |--|--|
 
 ### **Things I've Worked With Before**
-<img alt="Unreal Engine" title="Unreal Engine" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/unreal-engine/unreal-engine.png">|<img alt="GameMaker Studio" title="GameMaker Studio 2" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/gamemaker/gamemaker.png">|<img alt="Blockbench" title="Blockbench" width="70px" src="https://www.blockbench.net/images/logos/icon.png">|<img alt="Google Firebase" title="Firebase" width="70px" src="https://www.gstatic.com/devrel-devsite/prod/v530e2b4758c915c59675435df4424a8b4929cfd382db2f39325a64003950cf58/firebase/images/lockup.svg">|<img alt="Android Studio" title="Android Studio" width="70px" src="https://www.gstatic.com/devrel-devsite/prod/v530e2b4758c915c59675435df4424a8b4929cfd382db2f39325a64003950cf58/android/images/lockup.svg">|<img alt="Microsoft Power Automate" title="Power Automate" width="70px" src="https://cdn.techcommunity.microsoft.com/assets/PowerPlatform/xuPlE1EJ_400x400.png">|<img alt="Apple Swift" title="Swift" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png">|<img alt="BASH" title="BASH" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png">|<img alt="VB" title="Visual Basic" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-basic/visual-basic.png">
-|--|--|--|--|--|--|--|--|--|
+<img alt="Unreal Engine" title="Unreal Engine" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/unreal-engine/unreal-engine.png">|<img alt="GameMaker Studio" title="GameMaker Studio 2" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/gamemaker/gamemaker.png">|<img alt="Blockbench" title="Blockbench" width="70px" src="https://www.blockbench.net/images/logos/icon.png">|<img alt="Google Firebase" title="Firebase" width="70px" src="https://www.gstatic.com/devrel-devsite/prod/v530e2b4758c915c59675435df4424a8b4929cfd382db2f39325a64003950cf58/firebase/images/lockup.svg">|<img alt="Android Studio" title="Android Studio" width="70px" src="https://www.gstatic.com/devrel-devsite/prod/v530e2b4758c915c59675435df4424a8b4929cfd382db2f39325a64003950cf58/android/images/lockup.svg">|<img alt="Microsoft Power Automate" title="Power Automate" width="70px" src="https://cdn.techcommunity.microsoft.com/assets/PowerPlatform/xuPlE1EJ_400x400.png">|<img alt="Apple Swift" title="Swift" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png">|<img alt="BASH" title="BASH" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png">|<img alt="VB" title="Visual Basic" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-basic/visual-basic.png">|<img alt="Maya" title="Autodesk Maya" width="70px" src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/maya-2023-simplified-badge-75x75.png">|<img alt="C++" title="C++" width="70px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png">
+|--|--|--|--|--|--|--|--|--|--|--|
 
 Thanks for checking out my profile :)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Flooflez&count_private=true&show_icons=true)
+
 
 <!--
 **Flooflez/Flooflez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
