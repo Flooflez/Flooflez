@@ -2,6 +2,7 @@
 I'm Max and I create projects under the name Flooflez. 
 
 I'm a second year Computer Science student, and an amateur game developer and Minecraft modder.
+
 I have experience in game design, development, pixel art, as well as teaching programming :)
 
 I mostly work on Open Source Minecraft Fabric mods here, all free to download on my Modrinth or Curseforge page
