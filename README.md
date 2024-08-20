@@ -13,7 +13,7 @@ I mostly work on Open Source Minecraft Fabric mods here, all free to download on
 |--|--|
 
 ## **Popular Projects**
-Maintainer<br><a href="https://github.com/Alujjdnd/Ngrok-LAN"><img alt="NgrokLAN" title="NgrokLAN" width="100px" src="https://github.com/Alujjdnd/Ngrok-LAN/blob/1.18.2/src/main/resources/assets/ngroklan/icon.png"></a>|Author<br><a href="https://github.com/Flooflez/LANOperators"><img title="LAN Operators" alt="LAN OP" width="100px" src="https://github.com/Flooflez/LANOperators/blob/1.18/src/main/resources/assets/lanoperators/icon.png" /></a>|Author<br><a href="https://github.com/Flooflez/NoTNTGriefing"><img alt="NO TNT" title="No TNT Griefing" width="100px" src="https://github.com/Flooflez/NoTNTGriefing/blob/1.18/src/main/resources/assets/no.tnt.griefing/icon.png"></a>
+Author<br><a href="https://github.com/Flooflez/BetterVanillaSnowballs"><img alt="Better Snowball Fights" title="Better Snowball Fights" width="100px" src="https://github.com/Flooflez/BetterVanillaSnowballs/blob/1.21/src/main/resources/assets/bettersnowballfights/icon.png"></a>|Author<br><a href="https://github.com/Flooflez/LANOperators"><img title="LAN Operators" alt="LAN OP" width="100px" src="https://github.com/Flooflez/LANOperators/blob/1.18/src/main/resources/assets/lanoperators/icon.png" /></a>|Author<br><a href="https://github.com/Flooflez/NoTNTGriefing"><img alt="NO TNT" title="No TNT Griefing" width="100px" src="https://github.com/Flooflez/NoTNTGriefing/blob/1.18/src/main/resources/assets/no.tnt.griefing/icon.png"></a>
 |--|--|--|
 
 ### **Languages**
