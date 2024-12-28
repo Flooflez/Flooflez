@@ -9,7 +9,7 @@ I mostly work on Open Source Minecraft Fabric mods here, all free to download on
 
 #### ⏬ See my work here ⏬
 
-<a href="https://flooflezmt.itch.io/"><img alt="itch.io" title="itch.io" width="100px" src="https://static.itch.io/images/logo-black-new.svg"></a>|<a href="https://modrinth.com/user/flooflez"><img alt="Modrinth" title="Modrinth" width="100px" src="https://docs.modrinth.com/img/logo.svg"></a>
+<a href="https://flooflezmt.itch.io/"><img alt="itch.io" title="itch.io" width="100px" src="https://static.itch.io/images/logo-black-new.svg"></a>|<a href="https://modrinth.com/user/flooflez"><img alt="Modrinth" title="Modrinth" width="100px" src="https://raw.githubusercontent.com/gabrielvicenteYT/modrinth-icons/a05e2307b42762d64a370a3cf3e8b6b30735dce1/Branding/Badge/badge-dark.svg"></a>
 |--|--|
 
 ## **Popular Projects**
